@@ -8,4 +8,4 @@ It has 3 main sections:
 - **Contact** – my email, LinkedIn, and GitHub links.  
 
 The design is simple with a header, navigation bar, and footer.  
-I made this to practice web development and showcase my work.  
+I made this to practice web development and showcase my work  
